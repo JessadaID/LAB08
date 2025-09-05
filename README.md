@@ -1,12 +1,16 @@
-# React + Vite
+## Experiment2: JSX Workshop - React.js Fundamentals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### เป้าหมายการเรียนรู้:
 
-Currently, two official plugins are available:
+ - เข้าใจแนวคิดของ Component-Based Architecture
+ - สามารถเขียน JSX Syntax ได้อย่างถูกต้อง
+ - จัดการข้อมูลภายใน Component ด้วย State และส่งต่อข้อมูลด้วย Props
+ - ใช้งาน React Hooks ที่จำเป็น (useState, useEffect) ได้อย่างคล่องแคล่ว
+ - จัดการกับ Event ต่างๆ จากผู้ใช้งานได้
+ - สร้างเว็บแอปพลิเคชันขนาดเล็กที่รวบรวมทุกแนวคิดเข้าไว้ด้วยกันได้
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ผู้จัดทำ
+  - นายเจษฎา บุญทา รหัส 66543206063-0
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## เอกสาร
+ Google Doc : [เอกสารการเรียนรู้](https://docs.google.com/document/d/1TfGvnlp-74oWv_CvoMOAIg03FTip1CMKHXyaa_vt7xg/edit?usp=sharing)
